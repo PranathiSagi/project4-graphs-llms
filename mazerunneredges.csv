@@ -1,0 +1,27 @@
+Source,Target,Weight
+Thomas,Minho,6
+Thomas,Newt,5
+Thomas,Gally,4
+Thomas,Teresa,4
+Thomas,Alby,4
+Thomas,Chuck,3
+Minho,Teresa,5
+Minho,Chuck,4
+Minho,Gally,4
+Minho,Alby,5
+Minho,Newt,6
+Minho,Ben,2
+Newt,Gally,5
+Newt,Teresa,2
+Newt,Alby,3
+Newt,Ben,2
+Newt,Chuck,3
+Newt,Frypan,1
+Newt,Ava Paige,2
+Newt,Winston,3
+Gally,Ava Paige,1
+Gally,Frypan,3
+Gally,Alby,4
+Gally,Teresa,3
+Gally,Chuck,5
+Gally,Ben,1
